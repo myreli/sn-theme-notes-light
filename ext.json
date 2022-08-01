@@ -6,7 +6,7 @@
   "description": "Light theme for Standard Notes, inspired by Apple Notes",
 	"url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-notes-light@main/theme.css",
   "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-notes-light@main/ext.json",
-  "download_url": "https://github.com/myreli/sn-theme-notes-light/archive/0.1.0.zip",
+  "download_url": "https://github.com/myreli/sn-theme-notes-light/archive/main.zip",
 	"dock_icon": {
 		"type": "circle",
    	"background_color": "#e6b337",
