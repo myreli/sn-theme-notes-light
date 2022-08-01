@@ -1,0 +1,32 @@
+{
+  "name": "sn-theme-apple-notes",
+  "description": "Light theme for Standard Notes, inspired by Apple Notes.",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "main": "theme.css",
+  "sn": {
+    "main": "theme.css"
+  },
+  "author": {
+    "name": "Myreli",
+    "email": "myreli@proton.me",
+    "url": "https://myreli.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/myreli/sn-theme-notes-light.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myreli/sn-theme-notes-light/issues"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/myreli"
+    },
+    {
+      "type": "individual",
+      "url": "https://listed.to/@myreli/tip"
+    }
+  ]
+}
